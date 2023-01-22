@@ -129,6 +129,7 @@ GameObject:
   - component: {fileID: 6714918708961348029}
   - component: {fileID: -3834913460742194678}
   - component: {fileID: -6061634634614543885}
+  - component: {fileID: 2908060447774469401}
   m_Layer: 0
   m_Name: Charact3
   m_TagString: Player
@@ -239,3 +240,15 @@ MonoBehaviour:
   DeathEffect: {fileID: 8435400932944582125, guid: 005d5c3fb2e3a50449cc4116aa3150ff, type: 3}
   health: 100
   maxHealth: 100
+--- !u!114 &2908060447774469401
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7818901887279271110}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34f4bc9233a2b4d4787bd60c6a33c49b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
